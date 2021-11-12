@@ -1,0 +1,737 @@
+[
+ {
+   "high_GPA": 1000,
+   "math_SAT": 643,
+   "verb_SAT": 589,
+   "comp_GPA": 1000,
+   "univ_GPA": 3.52
+ },
+ {
+   "high_GPA": 300,
+   "math_SAT": 558,
+   "verb_SAT": 512,
+   "comp_GPA": 2.87,
+   "univ_GPA": 2.91
+ },
+ {
+   "high_GPA": 1111,
+   "math_SAT": 334,
+   "verb_SAT": 503,
+   "comp_GPA": 2.54,
+   "univ_GPA": 2.4
+ },
+ {
+   "high_GPA": 3.67,
+   "math_SAT": 685,
+   "verb_SAT": 602,
+   "comp_GPA": 3.83,
+   "univ_GPA": 3.47
+ },
+ {
+   "high_GPA": 4.67,
+   "math_SAT": 592,
+   "verb_SAT": 538,
+   "comp_GPA": 3.29,
+   "univ_GPA": 3.47
+ },
+ {
+   "high_GPA": 2.1,
+   "math_SAT": 562,
+   "verb_SAT": 486,
+   "comp_GPA": 2.64,
+   "univ_GPA": 2.37
+ },
+ {
+   "high_GPA": 3.1,
+   "math_SAT": 573,
+   "verb_SAT": 548,
+   "comp_GPA": 2.86,
+   "univ_GPA": 2.4
+ },
+ {
+   "high_GPA": 2.36,
+   "math_SAT": 559,
+   "verb_SAT": 536,
+   "comp_GPA": 3.86,
+   "univ_GPA": 2.24
+ },
+ {
+   "high_GPA": 2.42,
+   "math_SAT": 552,
+   "verb_SAT": 583,
+   "comp_GPA": 2.81,
+   "univ_GPA": 3.02
+ },
+ {
+   "high_GPA": 70,
+   "math_SAT": 617,
+   "verb_SAT": 591,
+   "comp_GPA": 3.41,
+   "univ_GPA": 3.32
+ },
+ {
+   "high_GPA": 3.48,
+   "math_SAT": 684,
+   "verb_SAT": 649,
+   "comp_GPA": 3.61,
+   "univ_GPA": 4.32
+ },
+ {
+   "high_GPA": 2.14,
+   "math_SAT": 568,
+   "verb_SAT": 650,
+   "comp_GPA": 2.48,
+   "univ_GPA": 2.54
+ },
+ {
+   "high_GPA": 100,
+   "math_SAT": 604,
+   "verb_SAT": 582,
+   "comp_GPA": 3.21,
+   "univ_GPA": 3.19
+ },
+ {
+   "high_GPA": 3.46,
+   "math_SAT": 619,
+   "verb_SAT": 624,
+   "comp_GPA": 3.52,
+   "univ_GPA": 3.71
+ },
+ {
+   "high_GPA": 3.51,
+   "math_SAT": 642,
+   "verb_SAT": 619,
+   "comp_GPA": 3.41,
+   "univ_GPA": 3.58
+ },
+ {
+   "high_GPA": 3.68,
+   "math_SAT": 683,
+   "verb_SAT": 642,
+   "comp_GPA": 3.52,
+   "univ_GPA": 3.4
+ },
+ {
+   "high_GPA": 500,
+   "math_SAT": 703,
+   "verb_SAT": 684,
+   "comp_GPA": 3.84,
+   "univ_GPA": 3.73
+ },
+ {
+   "high_GPA": 3.72,
+   "math_SAT": 712,
+   "verb_SAT": 652,
+   "comp_GPA": 3.64,
+   "univ_GPA": 3.49
+ },
+ {
+   "high_GPA": 2.15,
+   "math_SAT": 564,
+   "verb_SAT": 501,
+   "comp_GPA": 2.14,
+   "univ_GPA": 2.25
+ },
+ {
+   "high_GPA": 2.48,
+   "math_SAT": 557,
+   "verb_SAT": 502,
+   "comp_GPA": 2.21,
+   "univ_GPA": 2.37
+ },
+ {
+   "high_GPA": 3.09,
+   "math_SAT": 591,
+   "verb_SAT": 584,
+   "comp_GPA": 3.17,
+   "univ_GPA": 3.37
+ },
+ {
+   "high_GPA": 2.71,
+   "math_SAT": 599,
+   "verb_SAT": 562,
+   "comp_GPA": 3.01,
+   "univ_GPA": 3.19
+ },
+ {
+   "high_GPA": 2.46,
+   "math_SAT": 607,
+   "verb_SAT": 619,
+   "comp_GPA": 3.17,
+   "univ_GPA": 3.28
+ },
+ {
+   "high_GPA": 3.32,
+   "math_SAT": 619,
+   "verb_SAT": 558,
+   "comp_GPA": 3.01,
+   "univ_GPA": 3.37
+ },
+ {
+   "high_GPA": 3.61,
+   "math_SAT": 700,
+   "verb_SAT": 721,
+   "comp_GPA": 4.01,
+   "univ_GPA": 3.61
+ },
+ {
+   "high_GPA": 3.82,
+   "math_SAT": 718,
+   "verb_SAT": 732,
+   "comp_GPA": 3.78,
+   "univ_GPA": 3.81
+ },
+ {
+   "high_GPA": 4.82,
+   "math_SAT": 580,
+   "verb_SAT": 538,
+   "comp_GPA": 2.51,
+   "univ_GPA": 2.4
+ },
+ {
+   "high_GPA": 2.19,
+   "math_SAT": 562,
+   "verb_SAT": 507,
+   "comp_GPA": 2.1,
+   "univ_GPA": 2.21
+ },
+ {
+   "high_GPA": 3.34,
+   "math_SAT": 563,
+   "verb_SAT": 648,
+   "comp_GPA": 3.21,
+   "univ_GPA": 3.58
+ },
+ {
+   "high_GPA": 3.48,
+   "math_SAT": 717,
+   "verb_SAT": 724,
+   "comp_GPA": 3.68,
+   "univ_GPA": 3.51
+ },
+ {
+   "high_GPA": 3.56,
+   "math_SAT": 701,
+   "verb_SAT": 714,
+   "comp_GPA": 3.48,
+   "univ_GPA": 3.62
+ },
+ {
+   "high_GPA": 3.81,
+   "math_SAT": 691,
+   "verb_SAT": 684,
+   "comp_GPA": 3.71,
+   "univ_GPA": 3.6
+ },
+ {
+   "high_GPA": 3.92,
+   "math_SAT": 714,
+   "verb_SAT": 706,
+   "comp_GPA": 3.81,
+   "univ_GPA": 3.65
+ },
+ {
+   "high_GPA": 4,
+   "math_SAT": 689,
+   "verb_SAT": 673,
+   "comp_GPA": 3.84,
+   "univ_GPA": 3.76
+ },
+ {
+   "high_GPA": 2.52,
+   "math_SAT": 554,
+   "verb_SAT": 507,
+   "comp_GPA": 2.09,
+   "univ_GPA": 2.27
+ },
+ {
+   "high_GPA": 2.71,
+   "math_SAT": 564,
+   "verb_SAT": 543,
+   "comp_GPA": 2.17,
+   "univ_GPA": 2.35
+ },
+ {
+   "high_GPA": 3.15,
+   "math_SAT": 668,
+   "verb_SAT": 604,
+   "comp_GPA": 2.98,
+   "univ_GPA": 3.17
+ },
+ {
+   "high_GPA": 3.22,
+   "math_SAT": 691,
+   "verb_SAT": 662,
+   "comp_GPA": 3.28,
+   "univ_GPA": 3.47
+ },
+ {
+   "high_GPA": 2.29,
+   "math_SAT": 573,
+   "verb_SAT": 591,
+   "comp_GPA": 2.74,
+   "univ_GPA": 3
+ },
+ {
+   "high_GPA": 2.03,
+   "math_SAT": 568,
+   "verb_SAT": 517,
+   "comp_GPA": 2.19,
+   "univ_GPA": 2.74
+ },
+ {
+   "high_GPA": 3.14,
+   "math_SAT": 607,
+   "verb_SAT": 624,
+   "comp_GPA": 3.28,
+   "univ_GPA": 3.37
+ },
+ {
+   "high_GPA": 3.52,
+   "math_SAT": 651,
+   "verb_SAT": 683,
+   "comp_GPA": 3.68,
+   "univ_GPA": 3.54
+ },
+ {
+   "high_GPA": 2.91,
+   "math_SAT": 604,
+   "verb_SAT": 583,
+   "comp_GPA": 3.17,
+   "univ_GPA": 3.28
+ },
+ {
+   "high_GPA": 2.83,
+   "math_SAT": 560,
+   "verb_SAT": 542,
+   "comp_GPA": 3.17,
+   "univ_GPA": 3.39
+ },
+ {
+   "high_GPA": 2.65,
+   "math_SAT": 604,
+   "verb_SAT": 617,
+   "comp_GPA": 3.31,
+   "univ_GPA": 3.28
+ },
+ {
+   "high_GPA": 2.41,
+   "math_SAT": 574,
+   "verb_SAT": 548,
+   "comp_GPA": 3.07,
+   "univ_GPA": 3.19
+ },
+ {
+   "high_GPA": 2.54,
+   "math_SAT": 564,
+   "verb_SAT": 500,
+   "comp_GPA": 2.38,
+   "univ_GPA": 2.52
+ },
+ {
+   "high_GPA": 2.66,
+   "math_SAT": 607,
+   "verb_SAT": 528,
+   "comp_GPA": 2.94,
+   "univ_GPA": 3.08
+ },
+ {
+   "high_GPA": 3.21,
+   "math_SAT": 619,
+   "verb_SAT": 573,
+   "comp_GPA": 2.84,
+   "univ_GPA": 3.01
+ },
+ {
+   "high_GPA": 3.34,
+   "math_SAT": 647,
+   "verb_SAT": 608,
+   "comp_GPA": 3.17,
+   "univ_GPA": 3.42
+ },
+ {
+   "high_GPA": 3.68,
+   "math_SAT": 651,
+   "verb_SAT": 683,
+   "comp_GPA": 3.72,
+   "univ_GPA": 3.6
+ },
+ {
+   "high_GPA": 2.84,
+   "math_SAT": 571,
+   "verb_SAT": 543,
+   "comp_GPA": 2.17,
+   "univ_GPA": 2.4
+ },
+ {
+   "high_GPA": 2.74,
+   "math_SAT": 583,
+   "verb_SAT": 510,
+   "comp_GPA": 2.42,
+   "univ_GPA": 2.83
+ },
+ {
+   "high_GPA": 2.71,
+   "math_SAT": 554,
+   "verb_SAT": 538,
+   "comp_GPA": 2.49,
+   "univ_GPA": 2.38
+ },
+ {
+   "high_GPA": 2.24,
+   "math_SAT": 568,
+   "verb_SAT": 519,
+   "comp_GPA": 3.38,
+   "univ_GPA": 3.21
+ },
+ {
+   "high_GPA": 2.48,
+   "math_SAT": 574,
+   "verb_SAT": 602,
+   "comp_GPA": 2.07,
+   "univ_GPA": 2.24
+ },
+ {
+   "high_GPA": 3.14,
+   "math_SAT": 605,
+   "verb_SAT": 619,
+   "comp_GPA": 3.22,
+   "univ_GPA": 3.4
+ },
+ {
+   "high_GPA": 2.83,
+   "math_SAT": 591,
+   "verb_SAT": 584,
+   "comp_GPA": 2.71,
+   "univ_GPA": 3.07
+ },
+ {
+   "high_GPA": 3.83,
+   "math_SAT": 642,
+   "verb_SAT": 585,
+   "comp_GPA": 3.31,
+   "univ_GPA": 3.52
+ },
+ {
+   "high_GPA": 2.89,
+   "math_SAT": 608,
+   "verb_SAT": 573,
+   "comp_GPA": 3.28,
+   "univ_GPA": 3.47
+ },
+ {
+   "high_GPA": 2.67,
+   "math_SAT": 574,
+   "verb_SAT": 538,
+   "comp_GPA": 3.19,
+   "univ_GPA": 3.08
+ },
+ {
+   "high_GPA": 3.24,
+   "math_SAT": 643,
+   "verb_SAT": 607,
+   "comp_GPA": 3.24,
+   "univ_GPA": 3.38
+ },
+ {
+   "high_GPA": 3.29,
+   "math_SAT": 608,
+   "verb_SAT": 649,
+   "comp_GPA": 3.53,
+   "univ_GPA": 3.41
+ },
+ {
+   "high_GPA": 3.87,
+   "math_SAT": 709,
+   "verb_SAT": 688,
+   "comp_GPA": 3.72,
+   "univ_GPA": 3.64
+ },
+ {
+   "high_GPA": 3.94,
+   "math_SAT": 710,
+   "verb_SAT": 645,
+   "comp_GPA": 3.98,
+   "univ_GPA": 3.71
+ },
+ {
+   "high_GPA": 3.42,
+   "math_SAT": 667,
+   "verb_SAT": 583,
+   "comp_GPA": 3.09,
+   "univ_GPA": 3.01
+ },
+ {
+   "high_GPA": 3.52,
+   "math_SAT": 656,
+   "verb_SAT": 609,
+   "comp_GPA": 3.42,
+   "univ_GPA": 3.37
+ },
+ {
+   "high_GPA": 2.24,
+   "math_SAT": 554,
+   "verb_SAT": 542,
+   "comp_GPA": 2.07,
+   "univ_GPA": 2.34
+ },
+ {
+   "high_GPA": 3.29,
+   "math_SAT": 692,
+   "verb_SAT": 563,
+   "comp_GPA": 3.17,
+   "univ_GPA": 3.29
+ },
+ {
+   "high_GPA": 3.41,
+   "math_SAT": 684,
+   "verb_SAT": 672,
+   "comp_GPA": 4.17,
+   "univ_GPA": 3.4
+ },
+ {
+   "high_GPA": 3.56,
+   "math_SAT": 717,
+   "verb_SAT": 649,
+   "comp_GPA": 3.49,
+   "univ_GPA": 3.38
+ },
+ {
+   "high_GPA": 3.61,
+   "math_SAT": 712,
+   "verb_SAT": 708,
+   "comp_GPA": 3.51,
+   "univ_GPA": 3.28
+ },
+ {
+   "high_GPA": 3.28,
+   "math_SAT": 641,
+   "verb_SAT": 608,
+   "comp_GPA": 3.4,
+   "univ_GPA": 3.31
+ },
+ {
+   "high_GPA": 3.21,
+   "math_SAT": 675,
+   "verb_SAT": 632,
+   "comp_GPA": 3.38,
+   "univ_GPA": 3.42
+ },
+ {
+   "high_GPA": 3.48,
+   "math_SAT": 692,
+   "verb_SAT": 698,
+   "comp_GPA": 3.54,
+   "univ_GPA": 3.39
+ },
+ {
+   "high_GPA": 3.62,
+   "math_SAT": 684,
+   "verb_SAT": 609,
+   "comp_GPA": 3.48,
+   "univ_GPA": 3.51
+ },
+ {
+   "high_GPA": 2.92,
+   "math_SAT": 564,
+   "verb_SAT": 591,
+   "comp_GPA": 3.09,
+   "univ_GPA": 3.17
+ },
+ {
+   "high_GPA": 2.81,
+   "math_SAT": 554,
+   "verb_SAT": 509,
+   "comp_GPA": 3.14,
+   "univ_GPA": 4.17
+ },
+ {
+   "high_GPA": 3.11,
+   "math_SAT": 685,
+   "verb_SAT": 694,
+   "comp_GPA": 3.28,
+   "univ_GPA": 3.41
+ },
+ {
+   "high_GPA": 3.28,
+   "math_SAT": 671,
+   "verb_SAT": 609,
+   "comp_GPA": 3.41,
+   "univ_GPA": 3.29
+ },
+ {
+   "high_GPA": 2.7,
+   "math_SAT": 571,
+   "verb_SAT": 503,
+   "comp_GPA": 3.02,
+   "univ_GPA": 3.17
+ },
+ {
+   "high_GPA": 2.62,
+   "math_SAT": 582,
+   "verb_SAT": 591,
+   "comp_GPA": 2.97,
+   "univ_GPA": 3.12
+ },
+ {
+   "high_GPA": 3.72,
+   "math_SAT": 621,
+   "verb_SAT": 589,
+   "comp_GPA": 4,
+   "univ_GPA": 3.71
+ },
+ {
+   "high_GPA": 3.42,
+   "math_SAT": 651,
+   "verb_SAT": 642,
+   "comp_GPA": 3.34,
+   "univ_GPA": 3.5
+ },
+ {
+   "high_GPA": 3.51,
+   "math_SAT": 673,
+   "verb_SAT": 681,
+   "comp_GPA": 3.28,
+   "univ_GPA": 3.34
+ },
+ {
+   "high_GPA": 3.28,
+   "math_SAT": 651,
+   "verb_SAT": 640,
+   "comp_GPA": 3.32,
+   "univ_GPA": 3.48
+ },
+ {
+   "high_GPA": 3.42,
+   "math_SAT": 672,
+   "verb_SAT": 607,
+   "comp_GPA": 3.51,
+   "univ_GPA": 3.44
+ },
+ {
+   "high_GPA": 3.9,
+   "math_SAT": 591,
+   "verb_SAT": 587,
+   "comp_GPA": 3.68,
+   "univ_GPA": 3.59
+ },
+ {
+   "high_GPA": 3.12,
+   "math_SAT": 582,
+   "verb_SAT": 612,
+   "comp_GPA": 3.07,
+   "univ_GPA": 3.28
+ },
+ {
+   "high_GPA": 2.83,
+   "math_SAT": 609,
+   "verb_SAT": 555,
+   "comp_GPA": 2.78,
+   "univ_GPA": 3
+ },
+ {
+   "high_GPA": 2.09,
+   "math_SAT": 554,
+   "verb_SAT": 480,
+   "comp_GPA": 3.68,
+   "univ_GPA": 3.42
+ },
+ {
+   "high_GPA": 3.17,
+   "math_SAT": 612,
+   "verb_SAT": 590,
+   "comp_GPA": 3.3,
+   "univ_GPA": 3.41
+ },
+ {
+   "high_GPA": 3.28,
+   "math_SAT": 628,
+   "verb_SAT": 580,
+   "comp_GPA": 3.34,
+   "univ_GPA": 3.49
+ },
+ {
+   "high_GPA": 3.02,
+   "math_SAT": 567,
+   "verb_SAT": 602,
+   "comp_GPA": 3.17,
+   "univ_GPA": 3.28
+ },
+ {
+   "high_GPA": 3.42,
+   "math_SAT": 619,
+   "verb_SAT": 623,
+   "comp_GPA": 3.07,
+   "univ_GPA": 3.17
+ },
+ {
+   "high_GPA": 3.06,
+   "math_SAT": 620,
+   "verb_SAT": 624,
+   "comp_GPA": 3.19,
+   "univ_GPA": 3.24
+ },
+ {
+   "high_GPA": 4.06,
+   "math_SAT": 564,
+   "verb_SAT": 549,
+   "comp_GPA": 2.15,
+   "univ_GPA": 2.34
+ },
+ {
+   "high_GPA": 3.19,
+   "math_SAT": 650,
+   "verb_SAT": 684,
+   "comp_GPA": 3.11,
+   "univ_GPA": 3.28
+ },
+ {
+   "high_GPA": 2.23,
+   "math_SAT": 551,
+   "verb_SAT": 554,
+   "comp_GPA": 2.17,
+   "univ_GPA": 2.29
+ },
+ {
+   "high_GPA": 2.48,
+   "math_SAT": 568,
+   "verb_SAT": 541,
+   "comp_GPA": 3.17,
+   "univ_GPA": 2.08
+ },
+ {
+   "high_GPA": 3.76,
+   "math_SAT": 605,
+   "verb_SAT": 590,
+   "comp_GPA": 3.74,
+   "univ_GPA": 3.64
+ },
+ {
+   "high_GPA": 3.49,
+   "math_SAT": 692,
+   "verb_SAT": 683,
+   "comp_GPA": 3.27,
+   "univ_GPA": 3.42
+ },
+ {
+   "high_GPA": 3.07,
+   "math_SAT": 680,
+   "verb_SAT": 692,
+   "comp_GPA": 3.19,
+   "univ_GPA": 3.25
+ },
+ {
+   "high_GPA": 2.19,
+   "math_SAT": 617,
+   "verb_SAT": 503,
+   "comp_GPA": 2.98,
+   "univ_GPA": 2.76
+ },
+ {
+   "high_GPA": 3.46,
+   "math_SAT": 516,
+   "verb_SAT": 528,
+   "comp_GPA": 3.98,
+   "univ_GPA": 3.76
+ }
+]
